@@ -27,7 +27,7 @@ body {
 }
 
 /*
- * Remove text-shadow in selection highlight: h5bp.com/i
+ * Remove text-shadow in highlight: h5bp.com/i
  * These selection rule sets have to be separate.
  * Customize the background color to match your design.
  */
@@ -39,8 +39,8 @@ body {
 }
 
 ::selection {
-    background: #16a085;
-    color: #a4003a;
+    background: #1b6aff;
+    color: #FFF;
     text-shadow: none;
 }
 
