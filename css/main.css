@@ -1,3 +1,14 @@
+/*
+ * Author: Carlos Alvarez
+ * URL: http://Alvarez.is
+ *
+ * Project Name: SHIELD - Free Bootstrap 3 Theme
+ * Version: 1.0
+ * Date: 02-11-2013
+ * URL: http://blacktie.co/
+ */
+
+
 /* ==========================================================================
    Base Styles and Bootstrap Modifications
    ========================================================================== */
@@ -10,21 +21,15 @@ textarea {
     color: #222;
 }
 
-html {
-  scroll-behavior: smooth;
-}
-
 body {
     font-size: 1em;
     line-height: 1.4;
 }
 
-a.anchor {
-    display: block;
-    position: relative;
-    top: -50px;
-    visibility: hidden;
+html {
+  scroll-behavior: smooth;
 }
+
 
 /*
  * Remove text-shadow in highlight: h5bp.com/i
@@ -629,4 +634,3 @@ a:after {
 		line-height: 38px;
 	}
 }
-
