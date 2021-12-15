@@ -42,6 +42,12 @@ a.anchor {
     visibility: hidden;
 }
 
+.img-responsive {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
 /*
  * Remove text-shadow in highlight: h5bp.com/i
  * These selection rule sets have to be separate.
