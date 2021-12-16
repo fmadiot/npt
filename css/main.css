@@ -273,6 +273,7 @@ blockquote cite:before {
 /* Links */
 a {
     color: #b2230a;
+	font-weight: bold;
     word-wrap: break-word;
 
     -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
